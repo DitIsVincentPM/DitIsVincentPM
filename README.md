@@ -24,7 +24,7 @@ Java             ▓░░░░░░░░░░░░░░░░░░░░
 ```
 
 <h3 align="center">
-  <a href="https://github.com/hwalker928">
+  <a href="https://github.com/DitIsVincentPM">
       <img src="https://github-profile-trophy.vercel.app/?username=DitIsVincentPM&no-bg=true&no-frame=true">
   </a>
 </h3>
