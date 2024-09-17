@@ -7,6 +7,8 @@ Projects:
 - MarketSoft: A market software for selling products (discontinued)
 - My Personal Website: Everything about me and my projects are on my website. (https://vincentvanhoof.be/)
 - Escape From Exile: My First steam release game. Link: https://store.steampowered.com/app/2482140/Escape_From_Exile/
+- Pterodactyl Market: My first standalone website, this isn't in use anymore it had over 20k users and was used to sell pterodactyl addons/themes.
+- MyNode Panel: A spinoff on the Pterodactyl panel for the hosting MyNode a fully custom system with VPS intergration for SolusVM/Virtualizer.
   
 🔭 Nothing special.
 
@@ -20,8 +22,6 @@ JS               ██████████░░░░░░░░░░░
 Laravel          █████████░░░░░░░░░░░░░░░░   31.59 %
 React.js         ███████░░░░░░░░░░░░░░░░░░   23.59 %
 Vue.js           ████░░░░░░░░░░░░░░░░░░░░░   18.59 %
-Python           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Java             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <h3>
