@@ -24,7 +24,7 @@ Python           █░░░░░░░░░░░░░░░░░░░░
 Java             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
-<h3 align="center">
+<h3>
   <a href="https://github.com/DitIsVincentPM">
       <img src="https://github-profile-trophy.vercel.app/?username=DitIsVincentPM&no-bg=true&no-frame=true">
   </a>
