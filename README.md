@@ -7,12 +7,8 @@ Projects:
 - MarketSoft: A market software for selling products (discontinued)
 - My Personal Website: Everything about me and my projects are on my website. (https://vincentvanhoof.be/)
 - Escape From Exile: My First steam release game. Link: https://store.steampowered.com/app/2482140/Escape_From_Exile/
-
-<h3 align="center">
-  <a href="https://github.com/hwalker928">
-      <img src="https://github-profile-trophy.vercel.app/?username=DitIsVincentPM&no-bg=true&no-frame=true">
-  </a>
-</h3>
+- 
+🔭 Nothing special.
 
 <hr>
 
@@ -27,4 +23,8 @@ Python           █░░░░░░░░░░░░░░░░░░░░
 Java             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
-🔭 Nothing special.
+<h3 align="center">
+  <a href="https://github.com/hwalker928">
+      <img src="https://github-profile-trophy.vercel.app/?username=DitIsVincentPM&no-bg=true&no-frame=true">
+  </a>
+</h3>
