@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vincent a 18 year old, that studies undustrial IT
+I'm Vincent a 18 year old, that studies industrial IT
 
 Projects:
 - Learning Platform: Personal Software for making flashcards and reading your pdf, books
