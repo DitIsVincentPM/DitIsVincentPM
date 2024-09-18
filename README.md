@@ -4,11 +4,11 @@ I'm Vincent, an 18-year-old Industrial IT student passionate about software deve
 
 #### 🛠️ Projects
 - **[Learning Platform](#)**: A personal web app built with Vue.js and Node.js, designed to help me learn French through flashcards and PDF/book management.
-- **MarketSoft**: A comprehensive market software for product sales (discontinued).
 - **[Escape From Exile](https://store.steampowered.com/app/2482140/Escape_From_Exile/)**: My first survival game release on Steam, built in Unity and C#.
 - **[Pterodactyl Market](#)**: A standalone website that attracted over 20k users for selling Pterodactyl add-ons and themes (discontinued).
-- **MyNode Panel**: A custom hosting panel solution with VPS integration, spun off from the Pterodactyl panel to streamline server management.
 - **[My Personal Website](https://vincentvanhoof.be/)**: Dive deeper into my projects and get to know me better.
+- **[MarketSoft](#)**: A comprehensive market software for product sales (discontinued).
+- **[MyNode Panel](#)**: A custom hosting panel solution with VPS integration, spun off from the Pterodactyl panel to streamline server management.
 
 🔭 **Currently exploring** cutting-edge tech and refining my skill set through hands-on projects.
 
