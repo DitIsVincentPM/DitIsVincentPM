@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Vincent, an 18-year-old Industrial IT student passionate about software development, always looking to push the boundaries of creativity and tech. From web development to game design, I love working on diverse projects that challenge me to grow and learn.
+I'm Vincent, an 18-year-old Industrial IT student passionate about software development. From web development to game design, I love working on diverse projects.
 
 #### 🛠️ Projects
 - **[Learning Platform](#)**: A personal web app built with Vue.js and Node.js, designed to help me learn French through flashcards and PDF/book management.
@@ -10,7 +10,7 @@ I'm Vincent, an 18-year-old Industrial IT student passionate about software deve
 - **[MarketSoft](#)**: A comprehensive market software for product sales (discontinued).
 - **[MyNode Panel](#)**: A custom hosting panel solution with VPS integration, spun off from the Pterodactyl panel to streamline server management.
 
-🔭 **Currently exploring** cutting-edge tech and refining my skill set through hands-on projects.
+🔭 **Currently exploring**, low level code and frameworks for web design.
 
 ---
 
