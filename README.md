@@ -24,7 +24,7 @@ I'm Vincent, an 18-year-old Industrial IT student passionate about software deve
 | 🕹️ **Unity**            | ★★★★☆ (73%)     | 🌿 **Vue.js**           | ★★☆☆☆ (19%)     |
 | 🔌 **Arduino**          | ★☆☆☆☆ (26%)     | 💻 **Visual Basic**      | ★☆☆☆☆ (11%)     |
 
-* Keep in mind these are estimates, and having a high precentage just means i've stend alot of time with it.
+* Keep in mind these are estimates, and having a high precentage just means i've spend alot of time with it.
 
 ---
 
