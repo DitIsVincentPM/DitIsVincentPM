@@ -1,8 +1,9 @@
 ### Hey there! 👋
 
-I'm Vincent, an 18-year-old Industrial IT student passionate about software development. From web development to game design, I love working on diverse projects.
+I'm Vincent, an 19-year-old Industrial IT student passionate about software development. From web development to game design, I love working on diverse projects.
 
 #### 🛠️ Projects
+- **[DDR In Unity](#)**: A custom game project for Dance Dance Revolution pad i am designing for a school project.
 - **[Learning Platform]([#](https://learningplatform.vincentvanhoof.be/))**: A personal web app built with Vue.js and Node.js, designed to help me learn French through flashcards and PDF/book management.
 - **[Escape From Exile](https://store.steampowered.com/app/2482140/Escape_From_Exile/)**: My first survival game release on Steam, built in Unity and C#.
 - **[Pterodactyl Market](#)**: A standalone website that attracted over 20k users for selling Pterodactyl add-ons and themes (discontinued).
